@@ -14,6 +14,8 @@
 
 //2   Diseña un algoritmo que imprima los números impares entre un número dado por el usuario y los siguientes 50 números
 
+//2 OPCION1
+
 const num = prompt("Introduce un número");
 function impar(num){
     let imprimir = "";
@@ -25,7 +27,7 @@ function impar(num){
     return imprimir;
 }
 
-
+//2 OPCION2
 const num = prompt("Introduce un número");
 function impar(num){
     const arr = [];
