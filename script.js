@@ -1,6 +1,6 @@
 //1
 
-/* function contarLetra(str, letra) {
+function contarLetra(str, letra) {
     str = str.toLowerCase();
     letra = letra.toLowerCase();
     let cuenta = 0;
@@ -10,9 +10,7 @@
       }
     }
     return cuenta;
-  } */
-
-//2   Diseña un algoritmo que imprima los números impares entre un número dado por el usuario y los siguientes 50 números
+  }
 
 //2 OPCION1
 
